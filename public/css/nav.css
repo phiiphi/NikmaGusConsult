@@ -1,3 +1,17 @@
+.myswiper {
+	position: relative;
+	text-align: center;
+	color: white;
+  
+
+}
+.button-left {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 a.skip-main {
 	position: absolute;
 	top: 40px;
